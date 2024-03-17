@@ -1,4 +1,5 @@
-me": "simple-greet",
+{
+    "name": "TeaDAO_Hello",
     "version": "1.0.0",
     "description": "A simple greeting module",
     "main": "index.js",
@@ -10,5 +11,6 @@ me": "simple-greet",
         "url": "https://github.com/Malishkaxp/TeaDAO_Hello.git"
     },
     "keywords": ["greeting", "simple", "npm"],
-    "author": "Your Name",
+    "author": "Malishkaxp",
     "license": "MIT"
+}
